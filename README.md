@@ -36,12 +36,20 @@ Complete this contract with following specifications for each function
 
 -   Create a new branch with your name. You can use the following command
 
-```
-git checkout -b my-name
-```
+    ```
+    git checkout -b my-name
+    ```
 
+-   Install all dependencies
+    ```
+    npm install
+    ```
 -   Make changes to the `contract/PetPark.sol` file. The tests in `test/PetPark.spec.js` should run successfully.
 
+-   Run Tests
+    ```
+    npm test
+    ```
 -   Pushing your changes must automatically run a github workflow to run tests against your contract.
 
 ## Note
