@@ -28,7 +28,6 @@ Complete this contract with following specifications for each function
     -   Emit event `Borrowed` with parameter `Animal Type`.
 
 -   giveBackAnimal
-    -   Takes `Animal Type` as parameter.
     -   Throw an error if user hasn't borrowed before.
     -   Emit event `Returned` with parameter `Animal Type`.
 
