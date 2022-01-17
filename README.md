@@ -33,6 +33,7 @@ Complete this contract with following specifications for each function
 
 ## Evaluation
 
+-   Create a fork of this repo
 -   Create a new branch with your name. You can use the following command
 
     ```
@@ -49,7 +50,7 @@ Complete this contract with following specifications for each function
     ```
     npm test
     ```
--   Pushing your changes must automatically run a github workflow to run tests against your contract.
+-   Create a pull request from your forked repo to main branch of original repo to run the github workflow.
 
 ## Note
 
